@@ -1,2 +1,2 @@
 # dsl-kit: domain specific lang kit
-run commands for local environment
+run shell commands for local environment
